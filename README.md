@@ -2,7 +2,7 @@
 
 This example demos a @module-federation/typescript application for issue reappearance. This example fork from https://github.com/module-federation/module-federation-examples/tree/master/typescript
 
-`html-webpack-plugin` throw `Error: Child compilation has already started` when `federationConfig` has multi remotes 
+`html-webpack-plugin` throw `Error: Child compilation has already started` when `federationConfig` has multi remotes, Issue ref https://github.com/module-federation/universe/issues/455
 
 # Installation
 
